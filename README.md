@@ -1,6 +1,10 @@
 # Smart Locker Security and Environmental Monitoring System
 
 ## Overview
+
+https://github.com/user-attachments/assets/cba112b6-b64e-4834-82ce-c1d546b76cc3
+
+
 This project is a smart locker security and environmental monitoring system based on the NUCLEO-L432KC development board and Mbed OS. The system uses a physical button-based password interface for access control. Once unlocked, it automatically activates environmental monitoring functions, including abnormal temperature sensing and vibration-based fall/tamper detection.
 
 ## Core Features
